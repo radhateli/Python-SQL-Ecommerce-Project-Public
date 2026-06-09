@@ -146,7 +146,7 @@ Ecommerce-SQL-Analysis/
 
 🔗 LinkedIn: www.linkedin.com/in/radha-teli-845735356
 
-💻 GitHub: (Add Your GitHub Profile Link)
+💻 GitHub: https://github.com/radhateli
 
 ---
 
